@@ -1,6 +1,12 @@
 body {
   font-family: "Lato", sans-serif;
 }
+.star {
+  display: inline-block;
+  position: absolute;
+  top: .5em;
+  right: .5em;
+}
 
 .sidenav {
   height: 100%;
